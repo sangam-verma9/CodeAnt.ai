@@ -21,4 +21,8 @@ npm install
 ```
 npm run dev
 ```
-#### Now your server started and start intracting with this.
+### TESTING URL'S
+* [localhost:5173](http://localhost:5173/)
+* [localhost:5173/signin](http://localhost:5173/signin)
+
+#### Thankyou for your time 🙂
